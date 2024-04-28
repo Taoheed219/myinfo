@@ -1,0 +1,32 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    font-size: 12px;
+   }
+   #title {
+    font-size: 20px;
+    text-align: center;
+   }
+   .text{
+    text-align: center;
+   }
+   #main {
+     margin: 10px 5px 30px 0px;
+    background-color:#b3b3b3;
+   }
+   #img-div {
+    max-width: 100%;
+    text-align: center;
+    height: auto;
+   }
+   img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+   }
+   .subtitle {
+     text-align: center;
+   }
+   li {
+     margin: 10px 30px 5px 10px;
+   }
